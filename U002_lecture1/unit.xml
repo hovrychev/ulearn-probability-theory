@@ -1,0 +1,6 @@
+<?xml-model href="../ulearn.xsd"?>
+<unit xmlns="https://ulearn.me/schema/v2" title="От классической вероятности к теории меры" id="B9C59C14-0513-49E0-8B72-D7E28F2567A1" url="lecture1">
+  <slides>
+    <add>S*.xml</add>
+  </slides>
+</unit>

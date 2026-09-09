@@ -1,5 +1,5 @@
 <?xml-model href="ulearn.xsd"?>
-<course xmlns="https://ulearn.me/schema/v2" title="Шаблон курса для ulearn.me">
+<course xmlns="https://ulearn.me/schema/v2" title="Теория вероятностей">
   <enableCodeReviewAndQuizManualCheckForEveryone>false</enableCodeReviewAndQuizManualCheckForEveryone>
   <dictionaryFile>dictionary.txt</dictionaryFile>
   <defaultLanguage>python3</defaultLanguage>
