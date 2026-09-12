@@ -1,0 +1,6 @@
+<?xml-model href="../ulearn.xsd"?>
+<unit xmlns="https://ulearn.me/schema/v2" title="Аксиоматика Колмогорова и вероятностные пространства" id="B6DCFD4A-57F8-4CBC-BC9A-7822C6DC19A3" url="lecture2">
+  <slides>
+    <add>S*.xml</add>
+  </slides>
+</unit>
