@@ -1,5 +1,4 @@
 <?xml-model href="../ulearn.xsd"?>
 <slide xmlns="https://ulearn.me/schema/v2" title="Парадокс Бертрана" id="3413299F-E843-49C0-AEB2-9FA8BFE77525">
-  <!-- Из ссылки https://vk.com/video-123456789_987654321: vkOid="-123456789", vkId="987654321". -->
-  <youtube vkId="ВСТАВЬТЕ_VK_ID" vkOid="ВСТАВЬТЕ_VK_OID" />
+  <youtube vkId="456239031" vkOid="-241395836" vkHash="ee651ff59af95924" />
 </slide>

@@ -1,5 +1,4 @@
 <?xml-model href="../ulearn.xsd"?>
 <slide xmlns="https://ulearn.me/schema/v2" title="Итоги первой лекции" id="6BE61A8A-033E-4285-BFAB-9382B38455C1">
-  <!-- Из ссылки https://vk.com/video-123456789_987654321: vkOid="-123456789", vkId="987654321". -->
-  <youtube vkId="ВСТАВЬТЕ_VK_ID" vkOid="ВСТАВЬТЕ_VK_OID" />
+  <youtube vkId="456239029" vkOid="-241395836" vkHash="a16d562c007e04c6" />
 </slide>

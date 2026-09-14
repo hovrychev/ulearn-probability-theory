@@ -1,5 +1,4 @@
 <?xml-model href="../ulearn.xsd"?>
-<slide xmlns="https://ulearn.me/schema/v2" title="Верхний и нижний предел последовательности множеств" id="A0B3E08A-D8E3-405E-9380-522B0D4EADA3">
-  <!-- Из ссылки https://vk.com/video-123456789_987654321: vkOid="-123456789", vkId="987654321". -->
-  <youtube vkId="ВСТАВЬТЕ_VK_ID" vkOid="ВСТАВЬТЕ_VK_OID" />
+<slide xmlns="https://ulearn.me/schema/v2" title="Верхний и нижний пределы последовательности множеств" id="A0B3E08A-D8E3-405E-9380-522B0D4EADA3">
+  <youtube vkId="456239034" vkOid="-241395836" vkHash="32d9ede508a72bf8" />
 </slide>

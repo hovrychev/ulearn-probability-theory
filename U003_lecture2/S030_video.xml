@@ -1,5 +1,4 @@
 <?xml-model href="../ulearn.xsd"?>
-<slide xmlns="https://ulearn.me/schema/v2" title="Свойства вероятности" id="4D51715E-5662-4940-8463-C414197ECEF2">
-  <!-- Из ссылки https://vk.com/video-123456789_987654321: vkOid="-123456789", vkId="987654321". -->
-  <youtube vkId="ВСТАВЬТЕ_VK_ID" vkOid="ВСТАВЬТЕ_VK_OID" />
+<slide xmlns="https://ulearn.me/schema/v2" title="Вероятность и ее свойства" id="4D51715E-5662-4940-8463-C414197ECEF2">
+  <youtube vkId="456239033" vkOid="-241395836" vkHash="3c43db9aac8ec956" />
 </slide>
