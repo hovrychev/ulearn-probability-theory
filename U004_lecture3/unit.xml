@@ -1,0 +1,6 @@
+<?xml-model href="../ulearn.xsd"?>
+<unit xmlns="https://ulearn.me/schema/v2" title="Условная вероятность и независимость событий" id="366A57A4-B83A-4CEC-B55C-316FE5B6AC60" url="lecture3">
+  <slides>
+    <add>S*.xml</add>
+  </slides>
+</unit>
