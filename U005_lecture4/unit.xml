@@ -1,0 +1,6 @@
+<?xml-model href="../ulearn.xsd"?>
+<unit xmlns="https://ulearn.me/schema/v2" title="Дискретные распределения, схема Бернулли и теорема Пуассона" id="AA892FF9-1126-4739-A24E-63EFAC0FF21C" url="lecture4">
+  <slides>
+    <add>S*.xml</add>
+  </slides>
+</unit>
