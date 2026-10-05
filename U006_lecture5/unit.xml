@@ -1,0 +1,6 @@
+<?xml-model href="../ulearn.xsd"?>
+<unit xmlns="https://ulearn.me/schema/v2" title="Дискретные случайные величины и математическое ожидание" id="DB8A3E7E-1B5F-4B02-A31E-E664BAA86DC4" url="lecture5">
+  <slides>
+    <add>S*.xml</add>
+  </slides>
+</unit>
