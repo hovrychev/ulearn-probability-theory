@@ -1,0 +1,6 @@
+<?xml-model href="../ulearn.xsd"?>
+<unit xmlns="https://ulearn.me/schema/v2" title="Общие случайные величины, распределения и математическое ожидание" id="35BB19F3-7C69-4535-993F-3F033AC69224" url="lecture6">
+  <slides>
+    <add>S*.xml</add>
+  </slides>
+</unit>
