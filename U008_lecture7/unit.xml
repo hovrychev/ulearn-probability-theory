@@ -1,0 +1,6 @@
+<?xml-model href="../ulearn.xsd"?>
+<unit xmlns="https://ulearn.me/schema/v2" title="Преобразования случайных величин, дисперсия и вероятностные неравенства" id="3B8D78F0-4DD2-4ECF-AB06-FD7C94762E0B" url="lecture7">
+  <slides>
+    <add>S*.xml</add>
+  </slides>
+</unit>
