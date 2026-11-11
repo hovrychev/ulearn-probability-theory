@@ -1,0 +1,6 @@
+<?xml-model href="../ulearn.xsd"?>
+<unit xmlns="https://ulearn.me/schema/v2" title="Совместные распределения" id="3CA68202-48CB-49B5-B7AA-A9BA1172FEE7" url="lecture8">
+  <slides>
+    <add>S*.xml</add>
+  </slides>
+</unit>
